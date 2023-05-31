@@ -1,1 +1,3 @@
-# custom-Input-range-slider
+# custom-Input-range-slider 
+
+![](./thumbnail.png)
